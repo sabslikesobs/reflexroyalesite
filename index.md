@@ -1,5 +1,5 @@
 ---
-# Remember me proyerly
+layout: default
 ---
 # Play Reflex Royale!
 
