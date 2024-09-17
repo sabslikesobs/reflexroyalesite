@@ -2,6 +2,9 @@
 layout: default
 display_in_header: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E_WBz4Nc18Y?si=Bo050m55Bitg2mzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Play Reflex Royale!
 
 Reflex Royale is an offline reaction time game for any number of players! Each game takes about 15 seconds and you can play over and over again.
