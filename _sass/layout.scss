@@ -1,6 +1,6 @@
 .imageWrapper {					// Sets the background image in the header area
 	height: 714px;
-	background: linear-gradient("#b69659ff", "#cfa192ff");
+	background: linear-gradient(#4e8361, #30975e);
 
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -44,6 +44,7 @@
 
 .appIndex {
 	grid-area: c;
+	margin-bottom: 30rem;
 	margin-top: -25rem !important;
 }
 
@@ -60,6 +61,10 @@
 }
 
 @media only screen and (max-width: 992px) {
+
+	.appIndex {
+		margin-top: 0 !important !important;
+	}
 
 	.container {
 		grid-column-gap: 0px;
