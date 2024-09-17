@@ -48,6 +48,10 @@
 		"f f f f f f f f f f f f";
 }
 
+.appIndex {
+	grid-area: c;
+}
+
 .subPageContainer {
 	grid-template-rows: 115px auto auto auto;
 	background-color: #fff;

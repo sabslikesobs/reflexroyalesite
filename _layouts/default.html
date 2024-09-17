@@ -28,20 +28,22 @@
                     </div>
                     <div class="appInfo">
                         <img src="assets/itchheader.png">
+                        <div class="appDescriptionContainer">
+                            <p class ="appDescription">
+                                {{ site.app_description }}
+                            </p>
+                        </div>
                         <div class="downloadButtonsContainer">
                             {% if site.playstore_link %}
                                 <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore" src="assets/playstore.png"></a>
                             {% endif %}
-                            {% if false %}
                             <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore" src="assets/appstore.png"></a>
-                            {%endif%}
                         </div>
                     </div>
-                    <div class="container subPageContainer">
-                    <article class="markdown-body">
-                    {{ content }}
+                    <article class="appIndex markdown-body">
+                        {{ content }}
                     </article>
-                    </div>
+                    {% include footer.html %}
                     {% include appstoreimages.html %}
                 </div>
             </div>
