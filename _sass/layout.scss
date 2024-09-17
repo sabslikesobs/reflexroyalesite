@@ -254,6 +254,10 @@ nav > ul li a:active {
 	align-content: flex-start;
 }
 
+.appInfo img {
+	width: 100%
+}
+
 @media only screen and (max-width: 992px) {
 
 	.appInfo {
@@ -339,6 +343,8 @@ nav > ul li a:active {
 
 .downloadButtonsContainer {
 	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 42px;
 	filter: $drop-shadow;
 }
