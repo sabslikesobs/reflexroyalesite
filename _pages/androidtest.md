@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Android Early Access Testing
+title: Android EA
 include_in_header: false
 ---
 
