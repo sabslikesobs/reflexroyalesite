@@ -24,5 +24,3 @@ That's Reflex Royale -- give it a shot for just $2! I guarantee you'll have fun.
 -   Background: <https://godotshaders.com/shader/procedural-2d-fog-with-pixelation/>
 -   Made in Godot 4.3
 -   Videos made in CapCut, graphics in Inkscape
-
-![qr code](assets/QRcode_a2.png)
