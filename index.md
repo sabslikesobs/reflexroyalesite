@@ -13,7 +13,7 @@ I made this game to pass the time with friends or break the ice with strangers. 
 
 Keep your finger down until the same shape comes back, then release it right away. The player who lifts their finger first wins! You'll lose if you lift your finger too early, or if you lift it for the wrong shape!
 
-That's Reflex Royale -- give it a shot for just $2! I guarantee you'll have fun.
+That's Reflex Royale -- give it a shot! I guarantee you'll have fun.
 
 # Credits
 
