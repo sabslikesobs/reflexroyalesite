@@ -8,6 +8,14 @@ include_in_header: true
 
 See [@sabslikesobs on X](https://z.sobs.moe/x) for more updates!
 
+## Dec 22, 2024
+
+New version of the Android app released to closed beta testers.
+
+- Changed background to breathing color animation
+- Enlarged and clarified instructions text
+- Fix: Tweaked broken finger-removal detection
+
 ## Oct 7, 2024
 
 New version of the Android app released to closed beta testers.
