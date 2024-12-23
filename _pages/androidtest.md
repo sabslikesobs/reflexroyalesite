@@ -4,7 +4,7 @@ title: Android EA
 include_in_header: false
 ---
 
-# Join Early Access on Android for Free!
+# Join Early Access on Android!
 
 Reflex Royale is in its pre-release phase on the Google Play store! You can get it for free by joining the beta test program. Just follow these steps:
 
